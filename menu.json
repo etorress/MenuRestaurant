@@ -1,0 +1,114 @@
+"desayunos": [
+  {
+  "name": "Tazon de frutas de temporda",
+  "desc": "Papaya, sandía, melón, alguna fruta de la estación o mixto",
+  "precio":40
+  },
+  {
+  "name": "Huevos estrallados rancheros",
+  "desc": "Tortilla de maíz con frijoles refritos y dos huevos fritos bañados con salsa de jitomate",
+  "precio":30
+  },
+  {
+  "name": "Huevos al gusto",
+  "desc": "Huevos sencillos, revueltos con jamón, tocino, a la mexicana o con chorizo, estrellados o divorciados, todos los acompañamos con frijoles refritos negros",
+  "precio":35
+  },
+  {
+  "name": "Omelette Chicago",
+  "desc": "Preparado con salchica americana, jamón York, tocino canadiense y tocino de cerdo",
+  "precio":50
+  }
+],
+
+"comidas": [
+  {
+  "name": "Enchiladas suizas",
+  "desc": "Rellanas de pollo o queso, ba\u00f1adas en salsa verde y gratinadas con queso manchego",
+  "precio":45
+  },
+  {
+  "name": "Ensalada Cesar",
+  "desc": "Cama de lechuga, pechuga de pollo, aderezo cesar, queso parmesano",
+  "precio":60
+  },
+  {
+  "name": "Panini Chicken",
+  "desc": "Pollo, queso gouda, philadelphia y lechuga",
+  "precio":50
+  },
+  {
+  "name": "Crunchy wrap",
+  "desc": "Relleno de camaron, pollo empanizado, arroz yakimeshi, lechuga, tomate, aguacate, cebolla morada, ba\u00f1ado en aderezo hot crunchy especial",
+  "precio":60
+  }
+],
+
+"cenas": [
+  {
+    "name":"Boca burger",
+    "desc":"Delicioso jamón de pavo y crujiente tocino y chile toreado, bañado en aderezo del chef",
+    "precio":80
+  },
+  {
+    "name":"Cornejo roll",
+    "desc":"Philadelphia, pepino y aguacate por dentro, ensalada tampico encima, top de aguacate, camarones spicey, bañado en salsa anguila",
+    "precio":70
+  },
+  {
+    "name":"Red roll",
+    "desc":"Camaron, top de tampico, chipotle y salsa spicey y empanizado spicey",
+    "precio":90
+  },
+  {
+    "name":"Hawaiian burger",
+    "desc":"Delicioso jamón de pavo, corte de piña, con aderezo del chef",
+    "precio":80
+  }
+],
+
+"postres":[
+  {
+    "name":"Pastel de chocolate",
+    "desc":"Relleno de crema de chocolate, cubierto de chocolate semi-amargo",
+    "precio":30
+  },
+  {
+    "name":"Gelatina de mazapan",
+    "desc":"Hecho con mazapan 100% mexicano acompañado de fresa y mora azul",
+    "precio":25
+  },
+  {
+    "name":"Pastel de elote",
+    "desc":"Bañado con crema inglesa",
+    "precio":30
+  },
+  {
+    "name":"Ferrero",
+    "desc":"Mousse de chocolate con crujiente de avellana, chocolate y biscocho de vainilla",
+    "precio":50
+  }
+],
+
+"bebidas":[
+  {
+    "name":"Refresco",
+    "prize":"334000"
+  }
+  {
+    "name":"Te",
+    "prize":"4726000"
+  },
+  {
+    "name":"Jamaica",
+    "prize":"6108000"
+  },
+  {
+    "name":"Limonada",
+    "prize":"15284000"
+  },
+  {
+    "name":"Limonada mineral",
+    "prize":"15284000"
+  }
+]
